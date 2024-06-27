@@ -15,3 +15,4 @@
 - sh
 - Kodu kopyala
 - pip install numpy matplotlib
+![image](https://github.com/rose-omer/KalpliYazi/assets/117285777/788af992-5bb2-417f-97f8-0469e8680de4)
